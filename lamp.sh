@@ -1,3 +1,9 @@
+#!/bin/bash
+
+OLD_DATABASE_PASS=''
+NEW_DATABASE_PASS="7Gi10Dvkfgu%,cnjf"
+document_root="/var/www/html"
+php_test_file="$document_root/phpinfo.php"
 # Delete package expect when script is done
 # 0 - No; 
 # 1 - Yes.
