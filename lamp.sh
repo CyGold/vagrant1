@@ -19,7 +19,6 @@ sudo systemctl start apache2
 
 #Install mysql
 # sudo apt-get clean
-# sudo apt-get purge mysql*
 sudo apt-get install mysql-server-8.0 -y
 # sudo apt-get dist-upgrade
 
